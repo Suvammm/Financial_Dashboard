@@ -3,7 +3,7 @@
 A production-quality Finance Dashboard built with React, Tailwind CSS, Recharts, and Zustand.
 
 ---
-
+![Dashboard Screenshot](./assets/dashboard.png)
 ## 🚀 Setup Instructions
 
 ### Prerequisites
