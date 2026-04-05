@@ -4,7 +4,7 @@ A production-quality Finance Dashboard built with React, Tailwind CSS, Recharts,
 
 ---
 <p align="center">
-  <img src="./dist/assets/dashboard.png" width="400"/>
+  <img src="./dist/assets/dashboard.png" width="400" style="margin-right: 20px;"/>
   <img src="./dist/assets/dashboard1.png" width="400"/>
 </p>
 ## 🚀 Setup Instructions
